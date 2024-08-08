@@ -6,10 +6,12 @@ redirect_from:
   - /about.html
 ---
 
-<article>
-    {%- if not page.meta.no_title_header %}<h1>{{ page.title }}</h1>{%- endif %}
-    {{- page.content }}
-</article>
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
 <span class='anchor' id='about-me'></span>
 
