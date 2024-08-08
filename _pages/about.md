@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-# About Me
-
 I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Research Asia.
 
 <span class='anchor' id='publications'></span>
