@@ -15,8 +15,6 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     
     {{ content }}
     
