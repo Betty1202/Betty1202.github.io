@@ -1,17 +1,12 @@
 ---
 permalink: /
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>
 
 <span class='anchor' id='about-me'></span>
 
