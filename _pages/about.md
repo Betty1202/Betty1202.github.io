@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<style>  
+    .page-title {  
+        display: none;  
+    }  
+    .content {  
+        margin-top: 0;  
+    }  
+</style> 
+
 <span class='anchor' id='about-me'></span>
 
 # About Me
