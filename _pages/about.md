@@ -50,16 +50,16 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 <span class='honors' id='publications'></span>
 # Honors and Awards
 **Honor Awards**
-+ 2018. National Scholarship
-+ 2021. The Honor of "Star of Tomorrow" by MSRA
-+ 2019 / 2020. First-class / Second-class scholarship of Xi'an Jiaotong University
-+ 2023. Excellent Graduate Student
-+ 2018 & 2019 & 2020. Excellent Student
++ 2018, National Scholarship
++ 2021, The Honor of "Star of Tomorrow" by MSRA
++ 2019 / 2020, First-class / Second-class scholarship of Xi'an Jiaotong University
++ 2023, Excellent Graduate Student
++ 2018 & 2019 & 2020, Excellent Student
 
 **Competition Awards**
-+ 2019. Second prize in the 11th National Mathematics Competition for College Students
-+ 2020 / 2019. H / S Prize, Mathematical Modeling Competition
-+ 2022. "Xinhuo Cup" AI Competition First Prize & Innovation Award
-+ 2018. Second prize in Shaanxi Division, Undergraduate Group, National Mathematical Modeling Contest for College Students
++ 2019, Second prize in the 11th National Mathematics Competition for College Students
++ 2020 / 2019, H / S Prize, Mathematical Modeling Competition
++ 2022, "Xinhuo Cup" AI Competition First Prize & Innovation Award
++ 2018, Second prize in Shaanxi Division, Undergraduate Group, National Mathematical Modeling Contest for College Students
 
 
