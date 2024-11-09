@@ -15,6 +15,7 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 # Publications
 
 + **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing. (EMNLP 2024) [paper](https://arxiv.org/abs/2403.13583)**
+  
   **Xinyi He**, Jiaru Zou, Yun Lin, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang.
 
 <span class='anchor' id='educations'></span>
