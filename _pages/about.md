@@ -14,9 +14,9 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 <span class='anchor' id='publications'></span>
 # Publications
 
-+ **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing. (EMNLP 2024) [paper](https://arxiv.org/abs/2403.13583)**
++ **CoCoST: Automatic Complex Code Generation with Online Searching and Correctness Testing. (EMNLP 2024) [paper](https://arxiv.org/abs/2403.13583)**  
   **Xinyi He**, Jiaru Zou, Yun Lin, Mengyu Zhou, Shi Han, Zejian Yuan, Dongmei Zhang.
-+ **TableBench: A Capability-Based Table Benchmark for Large Language Models. (Under Review)**
++ **TableBench: A Capability-Based Table Benchmark for Large Language Models. (Under Review)**  
   Yun Lin*, **Xinyi He\***, Mengyu Zhou, Yirui Luo, Junyu Xiong, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang.
 + **Tap4llm: Table provider on sampling, augmenting, and packing semi-structured data for large language model reasoning. (EMNLP 2024) [paper](https://arxiv.org/abs/2312.09039)**  
   Yuan Sui, Jiaru Zou, Mengyu Zhou, **Xinyi He**, Lun Du, Shi Han, Dongmei Zhang.
@@ -50,16 +50,16 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 <span class='honors' id='publications'></span>
 # Honors and Awards
 **Honor Awards**
-- 2018. National Scholarship
-- 2021. The Honor of "Star of Tomorrow" by MSRA
-- 2019 / 2020. First-class / Second-class scholarship of Xi'an Jiaotong University
-- 2023. Excellent Graduate Student
-- 2018 & 2019 & 2020. Excellent Student
++ 2018. National Scholarship
++ 2021. The Honor of "Star of Tomorrow" by MSRA
++ 2019 / 2020. First-class / Second-class scholarship of Xi'an Jiaotong University
++ 2023. Excellent Graduate Student
++ 2018 & 2019 & 2020. Excellent Student
 
 **Competition Awards**
-- 2019. Second prize in the 11th National Mathematics Competition for College Students
-- 2020 / 2019. H / S Prize, Mathematical Modeling Competition
-- 2022. "Xinhuo Cup" AI Competition First Prize & Innovation Award
-- 2018. Second prize in Shaanxi Division, Undergraduate Group, National Mathematical Modeling Contest for College Students
++ 2019. Second prize in the 11th National Mathematics Competition for College Students
++ 2020 / 2019. H / S Prize, Mathematical Modeling Competition
++ 2022. "Xinhuo Cup" AI Competition First Prize & Innovation Award
++ 2018. Second prize in Shaanxi Division, Undergraduate Group, National Mathematical Modeling Contest for College Students
 
 
