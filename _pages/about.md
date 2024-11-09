@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<span class='anchor' id='about-me'></span>
 I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Research Asia.
 
 <span class='anchor' id='publications'></span>
@@ -47,7 +47,7 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 2017.8 ~ 2021.7: **Xi'an Jiaotong University**, Bachelor's Degree.
   + Automatic Science and Technology.
 
-<span class='honors' id='publications'></span>
+<span class='anchor' id='honors'></span>
 # Honors and Awards
 **Honor Awards**
 + 2018, National Scholarship
