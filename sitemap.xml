@@ -7,6 +7,111 @@
 >
 
 <url>
+ <loc>http://jekyllrb.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://mademistakes.com/work/minimal-mistakes-jekyll-theme/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>mailto:hxyhxy@stu.xjtu.edu.cn</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=3XARaNoAAAAJ</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/Betty1202</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://arxiv.org/abs/2403.13583</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://arxiv.org/abs/2312.09039</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ojs.aaai.org/index.php/AAAI/article/view/29779</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://aclanthology.org/2023.findings-acl.604</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://doi.org/10.24963/ijcai.2022/761</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://doi.org/10.1145/3447548.3467279</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://aclanthology.org/2022.emnlp-main.542</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://ieeexplore.ieee.org/abstract/document/9552449</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://github.com/Betty1202</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/academicpages/academicpages.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-12</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://betty1202.github.io/</loc>
  <priority>0.3</priority>
  <lastmod>2025-02-12</lastmod>
