@@ -14,7 +14,7 @@ I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Res
 <span class='anchor' id='publications'></span>
 # Publications
 
-+ **TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models. (Under Review)**
++ **TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models. (Under Review)**  
   **Xinyi He**, Yihao Liu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Zejian Yuan, Dongmei Zhang.
 + **TabEval: How Far Large Language Models Have Gone on Tabular Data? (Under Review)**  
   **Xinyi He\***, Yun Lin*, Mengyu Zhou, Yirui Luo, Junyu Xiong, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang.
