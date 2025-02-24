@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a joint Ph.D. student between Xi’an Jiaotong University and Microsoft Research Asia.
+I am a fourth-year joint Ph.D. candidate between Xi'an Jiaotong University (XJTU) and Microsoft Research Asia (MSRA). My research focuses on applying and advancing Large Language Models (LLMs) in structured data analysis/understanding and code generation.
 
 <span class='anchor' id='publications'></span>
 # Publications
