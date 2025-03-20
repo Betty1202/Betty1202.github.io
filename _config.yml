@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyi He/Personal Homepage"
+title                    : "Xinyi He"
 title_separator          : "-"
 name                     : &name "Xinyi He"
 description              : &description "personal description"
