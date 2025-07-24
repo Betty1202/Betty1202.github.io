@@ -9,6 +9,9 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+  - title: "Internship"
+    URL: "/#internship"
+
   - title: "Educations"
     url: "/#educations" 
 
