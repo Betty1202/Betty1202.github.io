@@ -10,7 +10,7 @@ main:
   #   url: /publications/
 
   - title: "Internship"
-    URL: "/#internship"
+    url: "/#internship"
 
   - title: "Educations"
     url: "/#educations" 
