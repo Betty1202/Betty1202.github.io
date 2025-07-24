@@ -9,12 +9,16 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a fourth-year joint Ph.D. candidate between Xi'an Jiaotong University (XJTU) and Microsoft Research Asia (MSRA). My research focuses on applying and advancing Large Language Models (LLMs) in structured data analysis/understanding and code generation.
+I am a fourth-year joint Ph.D. candidate between Xi'an Jiaotong University (XJTU) and Microsoft Research Asia (MSRA). My research focuses on applying and advancing Large Language Models (**LLMs**) in structured (**tabular**) data analysis/understanding and **code** generation. 
+
+I'm seeking full-time jobs starting Fall 2026. If my experience aligns with your interests, please feel free to contact me via email.
 
 <span class='anchor' id='publications'></span>
 # Publications
 
-+ **TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models. (Under Review)**  
++ **SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories? (Under Review) [paper](https://www.arxiv.org/abs/2507.12415)**  
+  **Xinyi He**, Qian Liu, Mingzhe Du, Lin Yan, Zhijie Fan, Yiming Huang, Zejian Yuan, Zejun Ma.
++ **TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models. (ACL 2025) [paper](https://arxiv.org/abs/2503.04396)**  
   **Xinyi He**, Yihao Liu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Zejian Yuan, Dongmei Zhang.
 + **TabEval: How Far Large Language Models Have Gone on Tabular Data? (Under Review)**  
   **Xinyi He\***, Yun Lin*, Mengyu Zhou, Yirui Luo, Junyu Xiong, Yeye He, Haoyu Dong, Shi Han, Dongmei Zhang.
@@ -35,6 +39,16 @@ I am a fourth-year joint Ph.D. candidate between Xi'an Jiaotong University (XJTU
 + **MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation. (IEEE TVCG 2022) [paper](https://ieeexplore.ieee.org/abstract/document/9552449)**  
   Aoyu Wu, Yun Wang, Mengyu Zhou, **Xinyi He**, Haidong Zhang, Huamin Qu, Dongmei Zhang.
 
+
+<span class='anchor' id='internship'></span>
+# Internship
+2025.2 ~ Present: **TikTok**, Research Intern.
+  + Mentor: Qian Liu.
+  + TikTok AI Innovation Center.
+
+2020.7 ~ 2021.9, 2022.7 ~ 2025.2: **Microsoft Research Asia**, Research Intern in Joint Ph.D Program.
+  + Advisor: Dongmei Zhang, mentors: Shi Han & Mengyu Zhou.
+  + Data, Knowledge, and Intelligence Group.
 
 <span class='anchor' id='educations'></span>
 # Educations
